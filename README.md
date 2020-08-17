@@ -13,7 +13,7 @@
 const yan = {
   code: [Javascript, Typescript, HTML, CSS, C#, Go],
   tools: [React, Redux, Node, NextJS, Storybook, Styled-Components, Jest, Kubernetes],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["microservices", "event-driven", "design patterns", "clean architecture"],
   agile: [Scrum,  Kanban]
 }
 ```
