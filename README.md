@@ -11,7 +11,7 @@
 
 ```javascript
 const yan = {
-  code: [Javascript, Typescript, HTML, CSS, C#, Go],
+  code: [C#, Go, Typescript, Javascript, HTML, CSS],
   tools: [React, Node, NextJS, Storybook, Styled-Components, Jest, Kubernetes],
   architecture: ["microservices", "event-driven", "design patterns", "reactive"],
   agile: [Scrum,  Kanban]
