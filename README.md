@@ -1,6 +1,6 @@
 <h2> Hi, I'm Yan Alves! <img src="https://media.giphy.com/media/xUPGcGbvq1sVjsPHGw/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="230">
-<p><em>Senior Software Engineer
+<p><em>Staff Software Engineer
 </em></p>
 
 [![Linkedin: yan-alves](https://img.shields.io/badge/yan--monteiro-linkedIn-blue)](https://www.linkedin.com/in/yan-alves/)
